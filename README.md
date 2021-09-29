@@ -1,1 +1,1 @@
-# ML_project
+Using stochastic gradient descent on the MNist dataset, identify the the digit that is drawn. The MNIST dataset contains a training dataset consisting of 60,000 images. For this project I will be using arbitrary batch sizes. 
